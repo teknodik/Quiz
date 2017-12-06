@@ -1,0 +1,52 @@
+{
+	"1" : {
+		"question": "Matahari merupakan pusat dari tata surya",
+		"answer": true
+	},
+
+	"2" : {
+		"question": "Ada 9 planet dalam sistem tata surya.",
+		"answer": false
+	},
+
+	"3" : {
+		"question": "Mars adalah planet ke 5 dalam sistem tata surya",
+		"answer": false
+	},
+
+	"4" : {
+		"question": "Jupiter merupakan planet terbesar dalam tata surya",
+		"answer": true
+	},
+
+	"5" : {
+		"question": "Bulan merupakan satu satunya satelit alam yang dimiliki oleh Bumi.",
+		"answer": true
+	},
+
+	"6" : {
+		"question": "Suhu permukaan matahari mencapai 6000 derajat celcius",
+		"answer": true
+	},
+
+	"7" : {
+		"question": "Sekali mengelilingi matahari, Venus membutuhkan waktu 245.",
+		"answer": false
+	},
+
+	"8" : {
+		"question": "Satu-satunya planet yang bisa dihuni makhluk hidup adalah Bumi",
+		"answer": true
+	},
+
+	"9" : {
+		"question": "Orbit asteroida berada di antara planet Jupiter dan Saturnus.",
+		"answer": false
+	},
+
+	"10" : {
+		"question": "Benda langit yang terdiri dari gas dan debu yang diselimuti es disebut komet.",
+		"answer": true
+	}
+
+}
